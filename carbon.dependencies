@@ -1,6 +1,6 @@
 [
   {
-    "repository": "CarbonROM/android_device_google_wahoo",
+    "repository": "CarbonoidOS/android_device_google_wahoo",
     "target_path": "device/google/wahoo"
   },
   {
